@@ -18,6 +18,6 @@ Este programa simula el manejo de un búfer de entrada con un tamaño fijo. Es �
    ```bash
    cd Practica-Bufer
 3. Modifica la variable `entrada` con el texto a procesar.
-4. ejecuta el archivo .py}
+4. ejecuta el archivo .py
    ```bash
     python bufer.py
