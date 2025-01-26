@@ -21,3 +21,5 @@ Este programa simula el manejo de un búfer de entrada con un tamaño fijo. Es �
 4. ejecuta el archivo .py
    ```bash
     python bufer.py
+
+![image](https://github.com/user-attachments/assets/e0ff6c36-1d22-40a9-a1f5-787b9364c6da)
