@@ -13,7 +13,11 @@ Este programa simula el manejo de un búfer de entrada con un tamaño fijo. Es �
 1. Clona este repositorio desde GitHub:
    ```bash
    git clone https://github.com/SergioAle210/Practica-Bufer.git
-2. Modifica la variable `entrada` con el texto a procesar.
-3. Ejecuta el programa en Python:
+
+2. navega a la carpeta del archivo .py:
    ```bash
-   python buffer_simulator.py
+   cd Practica-Bufer
+3. Modifica la variable `entrada` con el texto a procesar.
+4. ejecuta el archivo .py}
+   ```bash
+    python bufer.py
